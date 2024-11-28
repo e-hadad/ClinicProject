@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Clinic.Service/1.0.0": {
+        "dependencies": {
+          "Clinic.Core": "1.0.0"
+        },
+        "runtime": {
+          "Clinic.Service.dll": {}
+        }
+      },
+      "Clinic.Core/1.0.0": {
+        "runtime": {
+          "Clinic.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clinic.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clinic.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
