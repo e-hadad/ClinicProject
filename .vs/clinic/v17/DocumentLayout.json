@@ -1,89 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\",
+  "WorkspaceRootPath": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3028C874-1EB4-4643-A8D2-161A3F873312}|Clinic.Service\\Clinic.Service.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic.service\\routesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3028C874-1EB4-4643-A8D2-161A3F873312}|Clinic.Service\\Clinic.Service.csproj|solutionrelative:clinic.service\\routesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic.data\\clinic.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|solutionrelative:clinic.data\\clinic.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic.data\\repositories\\routesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|solutionrelative:clinic.data\\repositories\\routesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3028C874-1EB4-4643-A8D2-161A3F873312}|Clinic.Service\\Clinic.Service.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic.service\\clinic.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3028C874-1EB4-4643-A8D2-161A3F873312}|Clinic.Service\\Clinic.Service.csproj|solutionrelative:clinic.service\\clinic.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F7065EB-B695-4DFF-A3DA-F42584E209E6}|clinic\\clinic.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic\\clinic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6F7065EB-B695-4DFF-A3DA-F42584E209E6}|clinic\\clinic.csproj|solutionrelative:clinic\\clinic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|solutionrelative:clinic.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A380A2AD-4330-42EB-B8BF-AB4DBA141724}|Clinic.Core\\Clinic.Core.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic.core\\clinic.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A380A2AD-4330-42EB-B8BF-AB4DBA141724}|Clinic.Core\\Clinic.Core.csproj|solutionrelative:clinic.core\\clinic.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A380A2AD-4330-42EB-B8BF-AB4DBA141724}|Clinic.Core\\Clinic.Core.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic.core\\entities\\doctorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A380A2AD-4330-42EB-B8BF-AB4DBA141724}|Clinic.Core\\Clinic.Core.csproj|solutionrelative:clinic.core\\entities\\doctorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A380A2AD-4330-42EB-B8BF-AB4DBA141724}|Clinic.Core\\Clinic.Core.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic.core\\entities\\patientclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A380A2AD-4330-42EB-B8BF-AB4DBA141724}|Clinic.Core\\Clinic.Core.csproj|solutionrelative:clinic.core\\entities\\patientclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A380A2AD-4330-42EB-B8BF-AB4DBA141724}|Clinic.Core\\Clinic.Core.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic.core\\entities\\routesclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A380A2AD-4330-42EB-B8BF-AB4DBA141724}|Clinic.Core\\Clinic.Core.csproj|solutionrelative:clinic.core\\entities\\routesclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic.data\\migrations\\20241128104514_create-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|solutionrelative:clinic.data\\migrations\\20241128104514_create-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic.data\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\clinicproject\\clinic.data\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|solutionrelative:clinic.data\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic.data\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\clinicproject\\clinic.data\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|solutionrelative:clinic.data\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F7065EB-B695-4DFF-A3DA-F42584E209E6}|clinic\\clinic.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F7065EB-B695-4DFF-A3DA-F42584E209E6}|clinic\\clinic.csproj|solutionrelative:clinic\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\clinicproject\\clinic.data\\repositories\\routesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|solutionrelative:clinic.data\\repositories\\routesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F7065EB-B695-4DFF-A3DA-F42584E209E6}|clinic\\clinic.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F7065EB-B695-4DFF-A3DA-F42584E209E6}|clinic\\clinic.csproj|solutionrelative:clinic\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\clinicproject\\clinic.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|solutionrelative:clinic.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F7065EB-B695-4DFF-A3DA-F42584E209E6}|clinic\\clinic.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic\\controllers\\routescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F7065EB-B695-4DFF-A3DA-F42584E209E6}|clinic\\clinic.csproj|solutionrelative:clinic\\controllers\\routescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A380A2AD-4330-42EB-B8BF-AB4DBA141724}|Clinic.Core\\Clinic.Core.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\clinicproject\\clinic.core\\repositories\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A380A2AD-4330-42EB-B8BF-AB4DBA141724}|Clinic.Core\\Clinic.Core.csproj|solutionrelative:clinic.core\\repositories\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3028C874-1EB4-4643-A8D2-161A3F873312}|Clinic.Service\\Clinic.Service.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic.service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3028C874-1EB4-4643-A8D2-161A3F873312}|Clinic.Service\\Clinic.Service.csproj|solutionrelative:clinic.service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3028C874-1EB4-4643-A8D2-161A3F873312}|Clinic.Service\\Clinic.Service.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic.service\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3028C874-1EB4-4643-A8D2-161A3F873312}|Clinic.Service\\Clinic.Service.csproj|solutionrelative:clinic.service\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F7065EB-B695-4DFF-A3DA-F42584E209E6}|clinic\\clinic.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F7065EB-B695-4DFF-A3DA-F42584E209E6}|clinic\\clinic.csproj|solutionrelative:clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A380A2AD-4330-42EB-B8BF-AB4DBA141724}|Clinic.Core\\Clinic.Core.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic.core\\repositories\\iroutesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A380A2AD-4330-42EB-B8BF-AB4DBA141724}|Clinic.Core\\Clinic.Core.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\clinicproject\\clinic.core\\repositories\\iroutesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A380A2AD-4330-42EB-B8BF-AB4DBA141724}|Clinic.Core\\Clinic.Core.csproj|solutionrelative:clinic.core\\repositories\\iroutesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A380A2AD-4330-42EB-B8BF-AB4DBA141724}|Clinic.Core\\Clinic.Core.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic.core\\services\\iroutesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A380A2AD-4330-42EB-B8BF-AB4DBA141724}|Clinic.Core\\Clinic.Core.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\clinicproject\\clinic.core\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A380A2AD-4330-42EB-B8BF-AB4DBA141724}|Clinic.Core\\Clinic.Core.csproj|solutionrelative:clinic.core\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A380A2AD-4330-42EB-B8BF-AB4DBA141724}|Clinic.Core\\Clinic.Core.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\clinicproject\\clinic.core\\clinic.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A380A2AD-4330-42EB-B8BF-AB4DBA141724}|Clinic.Core\\Clinic.Core.csproj|solutionrelative:clinic.core\\clinic.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3028C874-1EB4-4643-A8D2-161A3F873312}|Clinic.Service\\Clinic.Service.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\clinicproject\\clinic.service\\routesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3028C874-1EB4-4643-A8D2-161A3F873312}|Clinic.Service\\Clinic.Service.csproj|solutionrelative:clinic.service\\routesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\clinicproject\\clinic.data\\clinic.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|solutionrelative:clinic.data\\clinic.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3028C874-1EB4-4643-A8D2-161A3F873312}|Clinic.Service\\Clinic.Service.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\clinicproject\\clinic.service\\clinic.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3028C874-1EB4-4643-A8D2-161A3F873312}|Clinic.Service\\Clinic.Service.csproj|solutionrelative:clinic.service\\clinic.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7065EB-B695-4DFF-A3DA-F42584E209E6}|clinic\\clinic.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\clinicproject\\clinic\\clinic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F7065EB-B695-4DFF-A3DA-F42584E209E6}|clinic\\clinic.csproj|solutionrelative:clinic\\clinic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\clinicproject\\clinic.data\\migrations\\20241128104514_create-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079FDE0E-9A81-4E50-9E03-3DF12D2E70CF}|Clinic.Data\\Clinic.Data.csproj|solutionrelative:clinic.data\\migrations\\20241128104514_create-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7065EB-B695-4DFF-A3DA-F42584E209E6}|clinic\\clinic.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\clinicproject\\clinic\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7065EB-B695-4DFF-A3DA-F42584E209E6}|clinic\\clinic.csproj|solutionrelative:clinic\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7065EB-B695-4DFF-A3DA-F42584E209E6}|clinic\\clinic.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\clinicproject\\clinic\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7065EB-B695-4DFF-A3DA-F42584E209E6}|clinic\\clinic.csproj|solutionrelative:clinic\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7065EB-B695-4DFF-A3DA-F42584E209E6}|clinic\\clinic.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\clinicproject\\clinic\\controllers\\routescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7065EB-B695-4DFF-A3DA-F42584E209E6}|clinic\\clinic.csproj|solutionrelative:clinic\\controllers\\routescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3028C874-1EB4-4643-A8D2-161A3F873312}|Clinic.Service\\Clinic.Service.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\clinicproject\\clinic.service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3028C874-1EB4-4643-A8D2-161A3F873312}|Clinic.Service\\Clinic.Service.csproj|solutionrelative:clinic.service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3028C874-1EB4-4643-A8D2-161A3F873312}|Clinic.Service\\Clinic.Service.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\clinicproject\\clinic.service\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3028C874-1EB4-4643-A8D2-161A3F873312}|Clinic.Service\\Clinic.Service.csproj|solutionrelative:clinic.service\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7065EB-B695-4DFF-A3DA-F42584E209E6}|clinic\\clinic.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\clinicproject\\clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F7065EB-B695-4DFF-A3DA-F42584E209E6}|clinic\\clinic.csproj|solutionrelative:clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A380A2AD-4330-42EB-B8BF-AB4DBA141724}|Clinic.Core\\Clinic.Core.csproj|t:\\group a\\c#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\clinicproject\\clinic.core\\services\\iroutesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A380A2AD-4330-42EB-B8BF-AB4DBA141724}|Clinic.Core\\Clinic.Core.csproj|solutionrelative:clinic.core\\services\\iroutesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -94,149 +90,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20241128104514_create-table.cs",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Data\\Migrations\\20241128104514_create-table.cs",
-              "RelativeDocumentMoniker": "Clinic.Data\\Migrations\\20241128104514_create-table.cs",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Data\\Migrations\\20241128104514_create-table.cs",
-              "RelativeToolTip": "Clinic.Data\\Migrations\\20241128104514_create-table.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABCAAAA",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Clinic.Data\\DataContext.cs",
+              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Data\\DataContext.cs",
+              "RelativeToolTip": "Clinic.Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T10:45:14.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RoutesClass.cs",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Core\\Entities\\RoutesClass.cs",
-              "RelativeDocumentMoniker": "Clinic.Core\\Entities\\RoutesClass.cs",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Core\\Entities\\RoutesClass.cs",
-              "RelativeToolTip": "Clinic.Core\\Entities\\RoutesClass.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T10:40:43.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PatientClass.cs",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Core\\Entities\\PatientClass.cs",
-              "RelativeDocumentMoniker": "Clinic.Core\\Entities\\PatientClass.cs",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Core\\Entities\\PatientClass.cs",
-              "RelativeToolTip": "Clinic.Core\\Entities\\PatientClass.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T10:40:37.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DoctorClass.cs",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Core\\Entities\\DoctorClass.cs",
-              "RelativeDocumentMoniker": "Clinic.Core\\Entities\\DoctorClass.cs",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Core\\Entities\\DoctorClass.cs",
-              "RelativeToolTip": "Clinic.Core\\Entities\\DoctorClass.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T10:40:27.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T11:45:36.907Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Clinic.Core.csproj",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Core\\Clinic.Core.csproj",
-              "RelativeDocumentMoniker": "Clinic.Core\\Clinic.Core.csproj",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Core\\Clinic.Core.csproj",
-              "RelativeToolTip": "Clinic.Core\\Clinic.Core.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-28T10:13:17.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "Clinic.Data\\DataContext.cs",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Data\\DataContext.cs",
-              "RelativeToolTip": "Clinic.Data\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABWAAAA",
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Core\\Repositories\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "Clinic.Core\\Repositories\\IPatientRepository.cs",
+              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Core\\Repositories\\IPatientRepository.cs",
+              "RelativeToolTip": "Clinic.Core\\Repositories\\IPatientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T10:14:05.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T11:44:02.131Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "clinic.csproj",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic\\clinic.csproj",
-              "RelativeDocumentMoniker": "clinic\\clinic.csproj",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic\\clinic.csproj",
-              "RelativeToolTip": "clinic\\clinic.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-28T10:10:52.109Z",
-              "EditorCaption": ""
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Core\\Repositories\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "Clinic.Core\\Repositories\\IDoctorRepository.cs",
+              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Core\\Repositories\\IDoctorRepository.cs",
+              "RelativeToolTip": "Clinic.Core\\Repositories\\IDoctorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:43:53.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Clinic.Service.csproj",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Service\\Clinic.Service.csproj",
-              "RelativeDocumentMoniker": "Clinic.Service\\Clinic.Service.csproj",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Service\\Clinic.Service.csproj",
-              "RelativeToolTip": "Clinic.Service\\Clinic.Service.csproj",
+              "DocumentIndex": 7,
+              "Title": "Clinic.Core.csproj",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Core\\Clinic.Core.csproj",
+              "RelativeDocumentMoniker": "Clinic.Core\\Clinic.Core.csproj",
+              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Core\\Clinic.Core.csproj",
+              "RelativeToolTip": "Clinic.Core\\Clinic.Core.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-28T10:07:24.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T11:43:48.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoutesService.cs",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Service\\RoutesService.cs",
+              "RelativeDocumentMoniker": "Clinic.Service\\RoutesService.cs",
+              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Service\\RoutesService.cs",
+              "RelativeToolTip": "Clinic.Service\\RoutesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:04:49.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Clinic\\Controllers\\DoctorController.cs",
+              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Clinic\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:38:11.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRoutesRepository.cs",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Core\\Repositories\\IRoutesRepository.cs",
+              "RelativeDocumentMoniker": "Clinic.Core\\Repositories\\IRoutesRepository.cs",
+              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Core\\Repositories\\IRoutesRepository.cs",
+              "RelativeToolTip": "Clinic.Core\\Repositories\\IRoutesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:05:29.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Data\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "Clinic.Data\\Repositories\\PatientRepository.cs",
+              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Data\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "Clinic.Data\\Repositories\\PatientRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:48:36.39Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "RoutesRepository.cs",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Data\\Repositories\\RoutesRepository.cs",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Data\\Repositories\\RoutesRepository.cs",
               "RelativeDocumentMoniker": "Clinic.Data\\Repositories\\RoutesRepository.cs",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Data\\Repositories\\RoutesRepository.cs",
+              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Data\\Repositories\\RoutesRepository.cs",
               "RelativeToolTip": "Clinic.Data\\Repositories\\RoutesRepository.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBMAAAAmAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBoAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T09:54:13.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Clinic.Data.csproj",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Data\\Clinic.Data.csproj",
-              "RelativeDocumentMoniker": "Clinic.Data\\Clinic.Data.csproj",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Data\\Clinic.Data.csproj",
-              "RelativeToolTip": "Clinic.Data\\Clinic.Data.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-28T09:46:57.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T09:54:13.943Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RoutesService.cs",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Service\\RoutesService.cs",
-              "RelativeDocumentMoniker": "Clinic.Service\\RoutesService.cs",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Service\\RoutesService.cs",
-              "RelativeToolTip": "Clinic.Service\\RoutesService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Data\\Repositories\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "Clinic.Data\\Repositories\\DoctorRepository.cs",
+              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Data\\Repositories\\DoctorRepository.cs",
+              "RelativeToolTip": "Clinic.Data\\Repositories\\DoctorRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwBIAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:04:49.743Z",
+              "WhenOpened": "2024-11-26T11:48:34.778Z",
               "EditorCaption": ""
             },
             {
@@ -245,60 +219,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DoctorController.cs",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic\\Controllers\\DoctorController.cs",
-              "RelativeDocumentMoniker": "clinic\\Controllers\\DoctorController.cs",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic\\Controllers\\DoctorController.cs",
-              "RelativeToolTip": "clinic\\Controllers\\DoctorController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "DocumentIndex": 12,
+              "Title": "20241128104514_create-table.cs",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Data\\Migrations\\20241128104514_create-table.cs",
+              "RelativeDocumentMoniker": "Clinic.Data\\Migrations\\20241128104514_create-table.cs",
+              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Data\\Migrations\\20241128104514_create-table.cs",
+              "RelativeToolTip": "Clinic.Data\\Migrations\\20241128104514_create-table.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T09:38:11.335Z"
+              "WhenOpened": "2024-11-28T10:45:14.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Clinic.Data.csproj",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Data\\Clinic.Data.csproj",
+              "RelativeDocumentMoniker": "Clinic.Data\\Clinic.Data.csproj",
+              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Data\\Clinic.Data.csproj",
+              "RelativeToolTip": "Clinic.Data\\Clinic.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T09:46:57.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Clinic.Service.csproj",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Service\\Clinic.Service.csproj",
+              "RelativeDocumentMoniker": "Clinic.Service\\Clinic.Service.csproj",
+              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Service\\Clinic.Service.csproj",
+              "RelativeToolTip": "Clinic.Service\\Clinic.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T10:07:24.23Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "PatientController.cs",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic\\Controllers\\PatientController.cs",
-              "RelativeDocumentMoniker": "clinic\\Controllers\\PatientController.cs",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic\\Controllers\\PatientController.cs",
-              "RelativeToolTip": "clinic\\Controllers\\PatientController.cs",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Clinic\\Controllers\\PatientController.cs",
+              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Clinic\\Controllers\\PatientController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T09:38:10.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PatientRepository.cs",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Data\\Repositories\\PatientRepository.cs",
-              "RelativeDocumentMoniker": "Clinic.Data\\Repositories\\PatientRepository.cs",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Data\\Repositories\\PatientRepository.cs",
-              "RelativeToolTip": "Clinic.Data\\Repositories\\PatientRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBQAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T11:48:36.39Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "DoctorRepository.cs",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Data\\Repositories\\DoctorRepository.cs",
-              "RelativeDocumentMoniker": "Clinic.Data\\Repositories\\DoctorRepository.cs",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Data\\Repositories\\DoctorRepository.cs",
-              "RelativeToolTip": "Clinic.Data\\Repositories\\DoctorRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T11:48:34.778Z"
+              "Title": "clinic.csproj",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\clinic\\clinic.csproj",
+              "RelativeDocumentMoniker": "clinic\\clinic.csproj",
+              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\clinic\\clinic.csproj",
+              "RelativeToolTip": "clinic\\clinic.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T10:10:52.109Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "RoutesController.cs",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic\\Controllers\\RoutesController.cs",
-              "RelativeDocumentMoniker": "clinic\\Controllers\\RoutesController.cs",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic\\Controllers\\RoutesController.cs",
-              "RelativeToolTip": "clinic\\Controllers\\RoutesController.cs",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic\\Controllers\\RoutesController.cs",
+              "RelativeDocumentMoniker": "Clinic\\Controllers\\RoutesController.cs",
+              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic\\Controllers\\RoutesController.cs",
+              "RelativeToolTip": "Clinic\\Controllers\\RoutesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T09:44:05.042Z"
@@ -307,9 +293,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "PatientService.cs",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Service\\PatientService.cs",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Service\\PatientService.cs",
               "RelativeDocumentMoniker": "Clinic.Service\\PatientService.cs",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Service\\PatientService.cs",
+              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Service\\PatientService.cs",
               "RelativeToolTip": "Clinic.Service\\PatientService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -319,10 +305,10 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Program.cs",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic\\Program.cs",
-              "RelativeDocumentMoniker": "clinic\\Program.cs",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\clinic\\Program.cs",
-              "RelativeToolTip": "clinic\\Program.cs",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic\\Program.cs",
+              "RelativeDocumentMoniker": "Clinic\\Program.cs",
+              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic\\Program.cs",
+              "RelativeToolTip": "Clinic\\Program.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAABoAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T09:29:54.079Z"
@@ -330,22 +316,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "IRoutesRepository.cs",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Core\\Repositories\\IRoutesRepository.cs",
-              "RelativeDocumentMoniker": "Clinic.Core\\Repositories\\IRoutesRepository.cs",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Core\\Repositories\\IRoutesRepository.cs",
-              "RelativeToolTip": "Clinic.Core\\Repositories\\IRoutesRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:05:29.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "IRoutesService.cs",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Core\\Services\\IRoutesService.cs",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Core\\Services\\IRoutesService.cs",
               "RelativeDocumentMoniker": "Clinic.Core\\Services\\IRoutesService.cs",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Core\\Services\\IRoutesService.cs",
+              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Core\\Services\\IRoutesService.cs",
               "RelativeToolTip": "Clinic.Core\\Services\\IRoutesService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -355,9 +329,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "DoctorService.cs",
-              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Service\\DoctorService.cs",
+              "DocumentMoniker": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Service\\DoctorService.cs",
               "RelativeDocumentMoniker": "Clinic.Service\\DoctorService.cs",
-              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project\\clinic\\Clinic.Service\\DoctorService.cs",
+              "ToolTip": "T:\\Group A\\C#\\\u05D0\u05E4\u05E8\u05EA \u05D7\u05D3\u05D3\\project clinic \u05D4\u05D5\u05E8\u05D3\u05D4 \u05DE -git\\ClinicProject\\Clinic.Service\\DoctorService.cs",
               "RelativeToolTip": "Clinic.Service\\DoctorService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

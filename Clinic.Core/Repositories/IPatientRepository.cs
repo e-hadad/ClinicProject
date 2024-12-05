@@ -9,7 +9,7 @@ namespace Clinic.Core.Repositories
 {
     public interface IPatientRepository
     {
-        public List<PatientClass> Get();
+        public IEnumerable<PatientClass> Get();
         public PatientClass Add(PatientClass doctor);
       
     }

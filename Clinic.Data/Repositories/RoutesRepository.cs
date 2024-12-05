@@ -17,13 +17,14 @@ namespace Clinic.Data.Repositories
         {
             _dataContext = dataContext;
         }
-        public List<RoutesClass> Get()
+        public IEnumerable<RoutesClass> Get()
         {
-            return _dataContext.ListRoutes.ToList();
+            return _dataContext.ListRoutes;
         }
         public RoutesClass Add(RoutesClass doctor)
         {
             _dataContext.ListRoutes.Add(doctor);
+            _dataContext.SaveChanges();
             return doctor;
         }
     }

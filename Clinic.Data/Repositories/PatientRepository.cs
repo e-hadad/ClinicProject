@@ -16,13 +16,14 @@ namespace Clinic.Data.Repositories
         {
             _dataContext = dataContext;
         }
-        public List<PatientClass> Get()
+        public IEnumerable<PatientClass> Get()
         {
-            return _dataContext.ListPatient.ToList();
+            return _dataContext.ListPatient;
         }
         public PatientClass Add(PatientClass patient)
         {
             _dataContext.ListPatient.Add(patient);
+            _dataContext.SaveChanges();
             return patient;
         }
     }
