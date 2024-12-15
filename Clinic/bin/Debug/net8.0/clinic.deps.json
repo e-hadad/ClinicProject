@@ -12,6 +12,8 @@
           "Clinic.Data": "1.0.0",
           "Clinic.Service": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "8.0.11",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.11",
+          "Microsoft.EntityFrameworkCore.Tools": "8.0.11",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
@@ -413,6 +415,11 @@
             "assemblyVersion": "8.0.11.0",
             "fileVersion": "8.0.1124.52104"
           }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Tools/8.0.11": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "8.0.11"
         }
       },
       "Microsoft.Extensions.ApiDescription.Server/6.0.5": {},
@@ -1104,6 +1111,13 @@
       "sha512": "sha512-rYYo8RyteIfRns+GuCcPRf3J7jS8gu8AxUWmFejrGoHTTKINhylL27N+SkFwCjxK4mscokjhQ1zjjJoNQ9oijA==",
       "path": "microsoft.entityframeworkcore.sqlserver/8.0.11",
       "hashPath": "microsoft.entityframeworkcore.sqlserver.8.0.11.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Tools/8.0.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9iUOj0npm2FxOkGIE3ktv0N0YU1oEhaMTJoDYuKS8dGNkWo1CPm7RjsoJABesKFk1lkCIfTE5SHXb45GIMjDnQ==",
+      "path": "microsoft.entityframeworkcore.tools/8.0.11",
+      "hashPath": "microsoft.entityframeworkcore.tools.8.0.11.nupkg.sha512"
     },
     "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
       "type": "package",

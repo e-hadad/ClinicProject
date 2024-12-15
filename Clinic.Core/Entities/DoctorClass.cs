@@ -14,5 +14,7 @@ namespace Clinic.Core.Entities
         public long Phone { get; set; }
         public string Email { get; set; }
         public int BusinessHours { get; set; }
+        public List<PatientClass> Patients { get; set; }
+        public List<RoutesClass> Routess { get; set; }
     }
 }

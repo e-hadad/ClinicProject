@@ -14,7 +14,10 @@ namespace Clinic.Core.Entities
         public long Phone { get; set; }
         public string Email { get; set; }
         public string Address { get; set; }
-        public string City { get; set; }
-        
+        public String city {  get; set; }
+        //public double age {  get; set; }
+        public List<DoctorClass> Doctors { get; set; }
+        public List<RoutesClass> Routes { get; set; }
+
     }
 }

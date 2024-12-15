@@ -4027,11 +4027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "T:\\Group A\\C#\\אפרת חדד\\project clinic הורדה מ -git\\ClinicProject\\Clinic.Data\\Clinic.Data.csproj",
+      "projectUniqueName": "T:\\Group A\\C#\\אפרת חדד\\clinic-git\\ClinicProject\\Clinic.Data\\Clinic.Data.csproj",
       "projectName": "Clinic.Data",
-      "projectPath": "T:\\Group A\\C#\\אפרת חדד\\project clinic הורדה מ -git\\ClinicProject\\Clinic.Data\\Clinic.Data.csproj",
+      "projectPath": "T:\\Group A\\C#\\אפרת חדד\\clinic-git\\ClinicProject\\Clinic.Data\\Clinic.Data.csproj",
       "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-      "outputPath": "T:\\Group A\\C#\\אפרת חדד\\project clinic הורדה מ -git\\ClinicProject\\Clinic.Data\\obj\\",
+      "outputPath": "T:\\Group A\\C#\\אפרת חדד\\clinic-git\\ClinicProject\\Clinic.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4053,8 +4053,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "T:\\Group A\\C#\\אפרת חדד\\project clinic הורדה מ -git\\ClinicProject\\Clinic.Core\\Clinic.Core.csproj": {
-              "projectPath": "T:\\Group A\\C#\\אפרת חדד\\project clinic הורדה מ -git\\ClinicProject\\Clinic.Core\\Clinic.Core.csproj"
+            "T:\\Group A\\C#\\אפרת חדד\\clinic-git\\ClinicProject\\Clinic.Core\\Clinic.Core.csproj": {
+              "projectPath": "T:\\Group A\\C#\\אפרת חדד\\clinic-git\\ClinicProject\\Clinic.Core\\Clinic.Core.csproj"
             }
           }
         }

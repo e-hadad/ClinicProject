@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace Clinic.Data.Repositories
 {
@@ -19,7 +20,7 @@ namespace Clinic.Data.Repositories
         }
         public IEnumerable<RoutesClass> Get()
         {
-            return _dataContext.ListRoutes;
+            return _dataContext.ListRoutes.Include(r=>r.Doctor);
         }
         public RoutesClass Add(RoutesClass doctor)
         {

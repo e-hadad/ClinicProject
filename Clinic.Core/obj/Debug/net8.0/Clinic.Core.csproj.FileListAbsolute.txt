@@ -21,3 +21,15 @@ T:\Group A\C#\אפרת חדד\project clinic הורדה מ -git\ClinicProject\Cl
 T:\Group A\C#\אפרת חדד\project clinic הורדה מ -git\ClinicProject\Clinic.Core\obj\Debug\net8.0\refint\Clinic.Core.dll
 T:\Group A\C#\אפרת חדד\project clinic הורדה מ -git\ClinicProject\Clinic.Core\obj\Debug\net8.0\Clinic.Core.pdb
 T:\Group A\C#\אפרת חדד\project clinic הורדה מ -git\ClinicProject\Clinic.Core\obj\Debug\net8.0\ref\Clinic.Core.dll
+T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\Clinic.Core\bin\Debug\net8.0\Clinic.Core.deps.json
+T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\Clinic.Core\bin\Debug\net8.0\Clinic.Core.dll
+T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\Clinic.Core\bin\Debug\net8.0\Clinic.Core.pdb
+T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\Clinic.Core\obj\Debug\net8.0\Clinic.Core.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\Clinic.Core\obj\Debug\net8.0\Clinic.Core.AssemblyInfoInputs.cache
+T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\Clinic.Core\obj\Debug\net8.0\Clinic.Core.AssemblyInfo.cs
+T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\Clinic.Core\obj\Debug\net8.0\Clinic.Core.csproj.CoreCompileInputs.cache
+T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\Clinic.Core\obj\Debug\net8.0\Clinic.Core.sourcelink.json
+T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\Clinic.Core\obj\Debug\net8.0\Clinic.Core.dll
+T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\Clinic.Core\obj\Debug\net8.0\refint\Clinic.Core.dll
+T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\Clinic.Core\obj\Debug\net8.0\Clinic.Core.pdb
+T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\Clinic.Core\obj\Debug\net8.0\ref\Clinic.Core.dll

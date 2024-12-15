@@ -43,16 +43,16 @@ namespace clinic.Controllers
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] PatientClass value)
         {
-            var index = _patientService.GetPatient().FindIndex(e => e.Id == id);
-            _patientService.GetPatient()[index] = value;
+            var index = _patientService.GetPatient().ToList().FindIndex(e => e.Id == id);
+            _patientService.GetPatient().ToList()[index] = value;
         }
 
         // DELETE api/<patient>/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
-            var index = _patientService.GetPatient().FindIndex(e => e.Id == id);
-            _patientService.GetPatient().RemoveAt(index);
+            var index = _patientService.GetPatient().ToList().FindIndex(e => e.Id == id);
+            _patientService.GetPatient().ToList().RemoveAt(index);
         }
     }
 }

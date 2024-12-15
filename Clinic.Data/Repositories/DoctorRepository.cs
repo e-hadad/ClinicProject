@@ -1,6 +1,7 @@
 ﻿using clinic;
 using Clinic.Core.Entities;
 using Clinic.Core.Repositories;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,7 +19,7 @@ namespace Clinic.Data.Repositories
         }
         public IEnumerable<DoctorClass> Get()
         {
-            return _dataContext.ListDoctors;
+            return _dataContext.ListDoctors.Include(p=>p.Patients);
         }
         public DoctorClass Add(DoctorClass doctor)
         {

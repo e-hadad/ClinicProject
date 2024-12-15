@@ -14,7 +14,11 @@ namespace Clinic.Core.Entities
         public DateTime Date;
         public DateTime StartTime { get; set; }
         public DateTime EndTime { get; set; }
-        public int IdPatient { get; set; }
-        public int IdDoctor { get; set; }
+        //public int IdPatient { get; set; }
+        //public int IdDoctor { get; set; }
+        public DoctorClass Doctor { get; set; }
+        public PatientClass Patient { get; set; }
+
+
     }
 }

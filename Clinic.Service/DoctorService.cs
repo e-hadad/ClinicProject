@@ -16,7 +16,7 @@ namespace Clinic.Service
         {
             _repository = doctorRepository;
         } 
-        public List<DoctorClass> GetDoctor()
+        public IEnumerable<DoctorClass> GetDoctor()
         {
             return _repository.Get();
         }

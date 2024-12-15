@@ -9,7 +9,7 @@ namespace Clinic.Core.Services
 {
     public interface IRoutesService
     {
-        public List<RoutesClass> GetRoutes();
+        public IEnumerable<RoutesClass> GetRoutes();
         public RoutesClass AddRoutes(RoutesClass routes);
 
     }
