@@ -1,4 +1,5 @@
-﻿using Clinic.Core.Entities;
+﻿using AutoMapper;
+using Clinic.Core.Entities;
 using Clinic.Core.Services;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,12 +11,15 @@ namespace clinic.Controllers
     [ApiController]
     public class PatientController : ControllerBase
     {
-        private IPatientService _patientService;
+        private readonly IPatientService _patientService;
+        private readonly IMapper _mapper;
 
 
-        public PatientController(IPatientService patientService)
+        public PatientController(IPatientService patientService, IMapper mapper)
         {
             _patientService = patientService;
+            _mapper = mapper;
+
         }
         // GET: api/<patient>
         [HttpGet]

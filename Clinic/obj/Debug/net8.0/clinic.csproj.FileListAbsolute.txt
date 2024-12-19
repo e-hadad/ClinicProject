@@ -311,3 +311,4 @@ T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\clinic\obj\Debug\net8.0\s
 T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\clinic\obj\Debug\net8.0\clinic.csproj.Up2Date
 T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\clinic\obj\Debug\net8.0\clinic.genruntimeconfig.cache
 T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\clinic\obj\Debug\net8.0\ref\clinic.dll
+T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\clinic\bin\Debug\net8.0\AutoMapper.dll

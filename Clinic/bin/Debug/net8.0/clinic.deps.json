@@ -12,12 +12,21 @@
           "Clinic.Data": "1.0.0",
           "Clinic.Service": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "8.0.11",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.11",
-          "Microsoft.EntityFrameworkCore.Tools": "8.0.11",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
           "clinic.dll": {}
+        }
+      },
+      "AutoMapper/13.0.1": {
+        "dependencies": {
+          "Microsoft.Extensions.Options": "8.0.2"
+        },
+        "runtime": {
+          "lib/net6.0/AutoMapper.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.0"
+          }
         }
       },
       "Azure.Core/1.38.0": {
@@ -415,11 +424,6 @@
             "assemblyVersion": "8.0.11.0",
             "fileVersion": "8.0.1124.52104"
           }
-        }
-      },
-      "Microsoft.EntityFrameworkCore.Tools/8.0.11": {
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Design": "8.0.11"
         }
       },
       "Microsoft.Extensions.ApiDescription.Server/6.0.5": {},
@@ -957,6 +961,9 @@
         }
       },
       "Clinic.Core/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "13.0.1"
+        },
         "runtime": {
           "Clinic.Core.dll": {}
         }
@@ -985,6 +992,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AutoMapper/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/Fx1SbJ16qS7dU4i604Sle+U9VLX+WSNVJggk6MupKVkYvvBm4XqYaeFuf67diHefHKHs50uQIS2YEDFhPCakQ==",
+      "path": "automapper/13.0.1",
+      "hashPath": "automapper.13.0.1.nupkg.sha512"
     },
     "Azure.Core/1.38.0": {
       "type": "package",
@@ -1111,13 +1125,6 @@
       "sha512": "sha512-rYYo8RyteIfRns+GuCcPRf3J7jS8gu8AxUWmFejrGoHTTKINhylL27N+SkFwCjxK4mscokjhQ1zjjJoNQ9oijA==",
       "path": "microsoft.entityframeworkcore.sqlserver/8.0.11",
       "hashPath": "microsoft.entityframeworkcore.sqlserver.8.0.11.nupkg.sha512"
-    },
-    "Microsoft.EntityFrameworkCore.Tools/8.0.11": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-9iUOj0npm2FxOkGIE3ktv0N0YU1oEhaMTJoDYuKS8dGNkWo1CPm7RjsoJABesKFk1lkCIfTE5SHXb45GIMjDnQ==",
-      "path": "microsoft.entityframeworkcore.tools/8.0.11",
-      "hashPath": "microsoft.entityframeworkcore.tools.8.0.11.nupkg.sha512"
     },
     "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
       "type": "package",

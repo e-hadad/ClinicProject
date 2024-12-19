@@ -33,3 +33,4 @@ T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\Clinic.Core\obj\Debug\net
 T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\Clinic.Core\obj\Debug\net8.0\refint\Clinic.Core.dll
 T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\Clinic.Core\obj\Debug\net8.0\Clinic.Core.pdb
 T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\Clinic.Core\obj\Debug\net8.0\ref\Clinic.Core.dll
+T:\Group A\C#\אפרת חדד\clinic-git\ClinicProject\Clinic.Core\obj\Debug\net8.0\Clinic.Core.csproj.AssemblyReference.cache
